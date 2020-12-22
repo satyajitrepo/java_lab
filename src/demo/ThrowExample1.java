@@ -9,7 +9,7 @@ public class ThrowExample1 {
 			throw new NotValidException("Your age is below 18. Sorry! you are not eligible for vote...");
 		}
 		else {
-			System.out.println("You are eligible for vote.");
+			System.out.println("You are eligible for vote...");
 		}
 	}
 	
